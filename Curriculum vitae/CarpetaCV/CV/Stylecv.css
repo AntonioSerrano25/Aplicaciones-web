@@ -17,12 +17,17 @@ body
     padding: 10px;
 }
 
-
 .Nombre
 {
-    margin-left: 0%;
+
     width: 100%;
+    margin-left: 20px;
+    padding: 2;
     
+}
+.img{
+    float: left;
+    padding: 10px;
 }
 
 .titulo
