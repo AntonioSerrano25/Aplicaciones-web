@@ -1,0 +1,86 @@
+header
+{
+    background-color: rgb(10, 10, 211);
+    width: 780px;
+    height: 250px;
+    float: left;
+    border-top: 10px solid black;
+    border-bottom: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
+.Banner
+{
+    background-color: white;
+    width: 500px;
+    height: 230px;
+    float: left;
+    margin: 10px;
+    line-height: 200px;
+    text-align: center;
+    font-size: 30px;
+}
+.Logo
+{
+    background-color: white;
+    width: 240px;
+    height: 230px;
+    float: right;
+    margin: 10px;
+    line-height: 200px;
+    text-align: center;
+    font-size: 30px;
+}
+nav
+{
+    background-color: rgb(91, 146, 10);
+    width: 780px;
+    height: 50px;
+    float: left;
+    border-bottom: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
+main
+{
+    background-color: rgb(163, 163, 157);
+    width: 780px;
+    height: 250px;
+    float: left;
+    border-bottom: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+
+}
+.article
+{
+    background-color: white;
+    width: 450px;
+    height: 230px;
+    float: left;
+    margin: 10px;
+    line-height: 200px;
+    text-align: center;
+    font-size: 30px;
+}
+.aside
+{
+    background-color: white;
+    width: 290px;
+    height: 230px;
+    float: right;
+    margin: 10px;
+    line-height: 200px;
+    text-align: center;
+    font-size: 30px;
+}
+footer
+{
+    background-color: rgb(216, 223, 16);
+    width: 780px;
+    height: 50px;
+    float: left;
+    border-bottom: 10px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}

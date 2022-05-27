@@ -1,0 +1,39 @@
+body
+{
+    display: flex;
+}
+
+.contenedor
+{
+    border: 2px solid black;
+    margin: 0 auto;
+    width: 60%;
+    background-color: aqua;
+    padding: 10px;
+}
+.principal
+{
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+.Nombre
+{
+
+    width: 100%;
+    margin-left: 20px;
+    padding: 2;
+    
+}
+.img{
+    float: left;
+    padding: 10px;
+}
+
+.titulo
+{
+    
+    border: 2px solid black;
+    background: aqua;
+}
+
